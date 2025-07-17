@@ -1,0 +1,1 @@
+dc_shell -f rrc_filter_pipe.tcl | tee run.log
