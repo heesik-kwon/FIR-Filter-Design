@@ -1,5 +1,5 @@
 # 🎛️ RRC FIR Filter (Pipeline Optimized)
-> Verilog로 33탭 Root Raised Cosine (RRC) FIR 필터를 설계하고, 파이프라인 구조를 적용하여  
+> System Verilog로 33탭 Root Raised Cosine (RRC) FIR 필터를 설계하고, 파이프라인 구조를 적용하여  
 > **Setup Violation**을 해소하고 **Timing Closure**를 달성한 FIR 필터 구현 프로젝트입니다.
 
 ---
