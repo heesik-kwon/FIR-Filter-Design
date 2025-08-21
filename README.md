@@ -34,7 +34,8 @@
 
 **상단:** 파이프라인 적용 전 / **하단:** 파이프라인 적용 후
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/c3de5553-40f7-4e74-9967-7c4328e540eb" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2f350c64-23bd-4a72-b5b1-158630722839" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/139af3e5-0952-492a-a0d9-40fd8d955d2d" />
 
 ### 관찰 포인트
 - **레이턴시 증가**
